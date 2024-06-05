@@ -47,6 +47,22 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 100000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-05T16:21:30.583Z",
+      "id": 7
+    },
+    {
+      "description": "Lanche",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-05T16:33:43.989Z",
+      "id": 8
     }
   ]
 }
